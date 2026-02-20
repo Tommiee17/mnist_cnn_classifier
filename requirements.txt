@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+matplotlib
+scikit-learn
+pytest
+python-dotenv
+ruff
+-e .
